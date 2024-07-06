@@ -60,7 +60,7 @@ html{
 /* SECCION I N I C I O */
 .inicio{
     background: linear-gradient(to top, rgba(30,35,38,.8), rgba(30,35,38,1)),
-    url(/assets/img/lenguaje.jpg);
+    url(../img/lenguaje.jpg);
     background-size: cover;
     height: 100vh;
     color: #fff;
@@ -406,7 +406,7 @@ html{
 }
 /* SECCION CONTACTO */
 .contacto{
-    background-image: url(/assets/img/contacto.png);
+    background-image: url(../img/contacto.png);
     background-color: #1e2326;
     color: #fff;
     padding: 50px 0;
